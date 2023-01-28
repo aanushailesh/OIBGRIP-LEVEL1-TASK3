@@ -1,0 +1,85 @@
+*
+body
+{
+    background-color:skyblue;
+    font-family: "Roboto Mono",monospace;
+    font-size:18px;
+}
+h1 {
+    font-family: 'Monarda';
+    font-weight: bolder;
+    color: black;
+    padding: 10px;
+    font-size: 45px;
+    
+}
+.temp1 {
+    width: 50%;
+    margin: auto;
+    border-radius: 8px;
+    background-color: white;
+    padding-bottom: 30px;
+    margin-top: 70px;
+    font-family: 'Monarda';
+    box-shadow: 0 20px 25px black;
+}
+
+.temp2 {
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+}
+
+.temp3 {
+    margin-top: 30px;
+}
+.paragraph {
+    margin: 0%;
+    padding: 15px;
+    padding: 10px;
+    text-align: left;
+    font-size: large;
+    font-weight: bold;
+   
+    font-family: 'Monarda';
+}
+input {
+    border-radius: 10px;
+     border-style: solid;
+    border-color: rgb(13, 13, 14);
+    font-size: 1em;
+    padding: 5px;
+    font-family:monospace;
+}
+select {
+    border-radius: 10px;
+    border-color:solid;
+    /* outline: none; */
+    font-size: 1em;
+    margin-top: 45px;
+    font-family: monospace;
+}
+option {
+    border-width: 2px;
+    border-radius: 10px;
+    background-color: cornsilk;
+}
+.btn {
+    margin: 20px;
+    background-color: gray;
+    /* background-color: #b6c2f5; */
+}
+button {
+    font-family: monospace;
+    font-size: small;
+    /* font-weight: bold; */
+    padding: 5px;
+    margin: 20px;
+    font-size: 1em;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color:white;
+    border-radius: 10px;
+    border-style:solid;
+}
+
